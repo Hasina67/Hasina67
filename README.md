@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hasina
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning python, framework web
